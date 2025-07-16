@@ -1,2 +1,2 @@
 # hello-wrold
-this is a repository is a practice for using git.
+this is a repository of git pratice.
