@@ -1,1 +1,1 @@
-This is a practice of git!
+This is a practice of git! Let's start!
